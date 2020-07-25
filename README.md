@@ -1,10 +1,6 @@
-### Hi there, I'm [HeNeos!](https://github.com/HeNeos) 👋
+## Hi there, I'm [HeNeos!](https://github.com/HeNeos) 👋
 
-Hi, I'm Josue Huaroto, a passionate mechanical engineer from Peru.
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/josue-santos-huaroto-villavicencio"
+## [LinkedIn](www.linkedin.com/in/HeNeos)
 
 **Languages and Tools:**  
 
