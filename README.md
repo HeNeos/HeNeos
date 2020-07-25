@@ -1,6 +1,6 @@
 ## Hi there, I'm [HeNeos!](https://github.com/HeNeos) 👋
 
-#### [LinkedIn](www.linkedin.com/in/HeNeos)
+#### [LinkedIn](www.linkedin.com/in/heneos)
 
 **Languages and Tools:**  
 
